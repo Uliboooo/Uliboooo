@@ -6,6 +6,11 @@ Ulibooooのoは4つです。 noteでプログラミング(Rust)や、コンピ�
 - 👀 I’m interested in ... rust
 - 🌱 I’m currently learning ... rust, tauri, web actix...
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo' />
+</a>
+
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)-->
 
 <!---
