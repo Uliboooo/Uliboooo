@@ -4,7 +4,7 @@ Ulibooooのoは4つです。 noteでプログラミング(Rust)や、コンピ�
 
 - 🌱 I’m currently learning ... Rust
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)](https://github.com/Uliboooo/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)](https://github.com/Uliboooo/github-readme-stats) -->
 
 <!--
 **Uliboooo/Uliboooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
