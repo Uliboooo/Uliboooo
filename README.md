@@ -6,7 +6,7 @@ Ulibooooのoは4つです。 noteでプログラミング(Rust)や、コンピ�
 - 👀 I’m interested in ... rust
 - 🌱 I’m currently learning ... rust, tauri, web actix...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)-->
 
 <!---
 ulibo-yuki/ulibo-yuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
