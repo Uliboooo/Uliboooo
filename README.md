@@ -6,25 +6,15 @@ Ulibooooのoは4つです。 noteでプログラミング(Rust)や、コンピ�
 - 👀 I’m interested in ... rust
 - 🌱 I’m currently learning ... rust, tauri, web actix...
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo' />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Uliboooo&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo">
 </a>
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)-->
-
-<!---
-ulibo-yuki/ulibo-yuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)](https://github.com/Uliboooo/github-readme-stats) -->
-
-<!--
-**Uliboooo/Uliboooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliboooo)--
