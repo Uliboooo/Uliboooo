@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-Ulibooooのoは4つです。 noteでプログラミング(Rust)や、コンピュータ関連の話を投稿してます。たまにガジェットなどのレビューなどもやってます。noteは大体週1投稿。
+Ulibooooのoは4つです。Rustが好きです。
+noteでプログラミング(Rust)や、コンピュータ関連の話を投稿してます。noteは大体週1投稿。
+
+Number of name's "o" is **4**.
+i post about programing(Rust) and about computer at note.com once a week.
+
+and, I'm learning english now.
 
 - 👋 Hi, I’m @Uliboooo
 - 👀 I’m interested in ... rust
