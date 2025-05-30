@@ -1,4 +1,6 @@
-Ulibooooのoは4つです。Rust書いてます。
+## i am Uliboooo
+
+oは4つです。Rust書いてます。
 
 "o" is **4**. i love Rust.
 
