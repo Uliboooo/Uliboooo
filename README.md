@@ -1,6 +1,6 @@
 Ulibooooのoは4つです。Rust書いてます。
 
-Number of name's "o" is **4**. i love Rust.
+"o" is **4**. i love Rust.
 
 articles 👇
 
