@@ -6,4 +6,4 @@ I am a university student who loves Software and Text. My name has four ‘o’.
 
 ## URLs
 
-[About me](https://about.uliboooo.dev/), [Blog](https://blog.uliboooo.dev), [Zenn](https://zenn.dev/uliboooo), [note](https://note.com/uliboooo)
+[About me](https://about.uliboooo.dev/), [Blog](https://blog.uliboooo.dev), [Zenn](https://zenn.dev/uliboooo), [note](https://note.com/uliboooo), [CodeBerg](https://codeberg.org/alice_is_thinking)
